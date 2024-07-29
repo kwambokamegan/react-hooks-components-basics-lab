@@ -1,6 +1,6 @@
 import React from 'react';
-import NavBar from './NavBar'; // Import NavBar from its file
-import Home from './Home'; // Import Home from its file
+import NavBar from './NavBar'; 
+import Home from './Home'; 
 
 function About() {
   return (
